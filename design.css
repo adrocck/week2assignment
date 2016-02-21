@@ -1,0 +1,41 @@
+body {
+
+	background-color: #D3D3D3;
+
+}
+
+h1 	{ 
+
+	position: center;
+	font-size: 64px;
+	font-family: helvetica;
+}
+
+h2 {
+
+	font-size: 48px;
+	font-family: helvetica;
+}
+
+ul {
+
+	list-style-type: none;
+}
+
+#one {
+
+	font-size: 32px;
+	font-family: helvetica;
+}
+
+#two {
+
+	font-size: 24px;
+	font-family: helvetica;
+}
+
+#three {
+	font-size: 32px;
+	font-family: helvetica;
+}
+
